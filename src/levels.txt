@@ -1,0 +1,1 @@
+Overall:1,753|Attack:75|Defence:75|Strength:76|Hitpoints:77|Ranged:71|Prayer:70|Magic:92|Cooking:99|Woodcutting:77|Fletching:99|Fishing:76|Firemaking:70|Crafting:62|Smithing:70|Mining:68|Herblore:63|Agility:73|Thieving:71|Slayer:70|Farming:93|Runecraft:70|Hunter:86|Construction:70
